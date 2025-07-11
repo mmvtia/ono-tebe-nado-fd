@@ -20,6 +20,11 @@
 .header__links-list-item-start {
   list-style: none;
   padding: 0 13px 0 0;
+  text-decoration: none;
+}
+
+.header__links-list-item-none {
+  text-decoration: none;
 }
 
 .header__logo {
